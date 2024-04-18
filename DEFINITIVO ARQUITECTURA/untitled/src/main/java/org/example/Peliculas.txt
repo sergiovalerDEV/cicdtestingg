@@ -1,0 +1,4 @@
+1,"Titanic","Un romance épico en el trágico hundimiento del Titanic"
+2,"Inception","Un thriller de ciencia ficción sobre los sueños"
+3,"The Shawshank Redemption","Un drama carcelario basado en una novela de Stephen King"
+4,"Interstellar","Una odisea espacial sobre amor y humanidad"
